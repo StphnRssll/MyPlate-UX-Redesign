@@ -4,8 +4,7 @@ A UX Case Study of the USDA's app, "Start Simple with MyPlate," which aims to ed
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![1-HTA-overview.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/1-HTA-overview.PNG?raw=true)
-  |  ![2-Heuristic-Evaluation-Overview.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/2-Heuristic-Evaluation-Overview.PNG?raw=true)
+![1-HTA-overview.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/1-HTA-overview.PNG?raw=true)  |  ![2-Heuristic-Evaluation-Overview.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/2-Heuristic-Evaluation-Overview.PNG?raw=true)
 
 
 ![3-Redesign-Introduction.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/3-Redesign-Introduction.PNG?raw=true)
