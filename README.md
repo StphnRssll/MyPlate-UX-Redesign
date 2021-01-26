@@ -6,8 +6,6 @@ Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![1-HTA-overview.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/1-HTA-overview.PNG?raw=true)  |  ![2-Heuristic-Evaluation-Overview.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/2-Heuristic-Evaluation-Overview.PNG?raw=true)
 
+![3-Redesign-Introduction.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/3-Redesign-Introduction.PNG?raw=true) | ![4-Interface-Before-and-Afters.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/4-Interface-Before-and-Afters.PNG?raw=true)
 
-![3-Redesign-Introduction.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/3-Redesign-Introduction.PNG?raw=true)
-![4-Interface-Before-and-Afters.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/4-Interface-Before-and-Afters.PNG?raw=true)
-![5-Evaluating-Redesign.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/5-Evaluating-Redesign.PNG?raw=true)
-![6-Conclusion.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/6-Conclusion.PNG?raw=true)
+![5-Evaluating-Redesign.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/5-Evaluating-Redesign.PNG?raw=true) | ![6-Conclusion.PNG](https://github.com/StphnRssll/MyPlate-UX-Redesign/blob/main/screenshots/6-Conclusion.PNG?raw=true)
